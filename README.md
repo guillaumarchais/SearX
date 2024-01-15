@@ -1,0 +1,2 @@
+# SearX
+Eyssette CSE SearX
